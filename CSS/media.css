@@ -1,0 +1,375 @@
+@media(min-width:1400px){
+    
+}
+@media(max-width:1399px){
+    
+}
+@media(max-width:1199px){
+    .banner_info h1 {
+        font-size: 48px;
+    }
+    .analycis_part {
+        padding: 11px;
+    }
+    .process_part {
+        height: 100%;
+    }
+    .team_carousel .owl-nav .owl-prev i, .client_carousel .owl-nav .owl-prev i{
+        right: 7%;
+    }
+    .link_item ul li {
+        margin-right: 3px;
+    }
+    .link_info p {
+        font-size: 15px;
+    }
+    .contuct_content p {
+        font-size: 11px !important;
+    }
+    .footer_section {
+        padding: 50px 0;
+    }
+}
+@media(max-width:991px){
+    .banner_info h1 {
+        font-size: 45px;
+    }
+    .banner_img {
+        right: -3%;
+        bottom: 12%;
+        width: 120%;
+    }
+    .features_info h1 {
+        font-size: 35px;
+    }
+    .features_info p {
+        font-size: 14px;
+        margin: 6px 0;
+    }
+    .feature_number {
+        margin-bottom: 10px;
+    }
+    .features_img {
+        height: 100%;
+    }
+    .service_heading {
+        width: 80%;
+    }
+    .process_heading {
+        width: 80%;
+    }
+    .analycis_part {
+        padding: 10px;
+    }
+    .excution_part {
+     height: 80px;
+    }
+    .launch_part {
+        height: 80px;
+        margin-bottom: 15pxpx;
+    }
+    .research_part {
+        height: 80px;
+    }
+    .process_part {
+        height: 100%;
+    }
+    .consultation_info h1 {
+        font-size: 35px;
+    }
+    .studies_heading {
+        width: 80%;
+    }
+    .client_heading {
+        width: 72%;
+    }
+    .team_carousel .owl-nav .owl-prev i, .client_carousel .owl-nav .owl-prev i {
+        right: 9%;
+    }
+    .footer_heading h3 {
+        font-size: 20px;
+    }
+    .footer_heading {
+        padding: 3px;
+    }
+    .contuct_content p {
+        font-size: 11px !important;
+    }
+    .link_info p {
+    text-transform: capitalize;
+    font-size: 13px;
+    }
+    .link_item {
+        padding: 10px;
+    }
+    .link_item h6 {
+        font-size: 14px;
+    }
+    .link_item ul li a {
+        font-size: 15px;
+    }
+    .link_item ul li {
+        width: 23px;
+        height: 23px;
+        margin-right: 2px;
+    }
+    .contuct {
+        width: 40%;
+        margin: auto;
+    }
+    .nav-item {
+        text-align: center;
+    }
+    .nav-link {
+        margin-left: 0;
+        display: inline-block;
+    }
+}
+@media(max-width:767px){
+    .hidden_banner_img{
+        display: inherit;
+    }
+    .hidden_banner_img .h_img {
+        text-align: center;
+    }
+    .h_img img {
+        width: 70%;
+    }
+    .banner_content {
+        min-height: 66vh;
+    }
+    .banner_right_part{
+        display: none;
+    }
+    .banner_info {
+    text-align: center;
+    }
+    .banner_info h1 {
+        font-size: 45px;
+    }
+    .features_item {
+        padding-left: 0;
+        margin-top: 20px;
+    }
+    .features_info {
+        height: 100%;
+        margin-bottom: 20px;
+    }
+    .service_heading {
+        width: 80%;
+
+    }
+    .service_item {
+        margin-bottom: 20px;
+    }
+    .process_heading {
+        width: 80%;
+    }
+    .analycis_part {
+        margin-top: 20px;
+    }
+    .consultation_info {
+        padding: 20px;
+        text-align: center;
+        padding-left: 0;
+    }
+    .studies_heading {
+        width: 85%;
+    }
+    .studies_btn {
+        margin-bottom: 20px;
+    }
+    .client_heading H1 {
+        font-size: 40px;
+    }
+    .client_heading {
+        width: 80%;
+    }
+    .team_carousel .owl-nav .owl-prev i, .client_carousel .owl-nav .owl-prev i{
+        right: 12%;
+    }
+    .right_part ul {
+        justify-content: start;
+    }
+    .right_part ul li {
+        margin-left: 0;
+    }
+    .studies_btn_clon{
+        text-align: center;
+    }
+    .contuct {
+        width: 40%;
+        margin: auto;
+    }
+    .nav-item {
+        text-align: center;
+    }
+    .nav-link {
+        margin-left: 0;
+        display: inline-block;
+    }
+}
+
+@media(max-width:575px){
+    .contuct {
+        width: 40%;
+        margin: auto;
+    }
+    .hidden_banner_img{
+        display: inherit;
+    }
+    .hidden_banner_img .h_img {
+        text-align: center;
+    }
+    .h_img img {
+        width: 70%;
+    }
+    .banner_content {
+        min-height: 66vh;
+    }
+    .feature_number {
+        justify-content: center;
+    }
+    .process_item {
+        padding-top: 20px;
+    }
+    .banner_right_part{
+        display: none;
+    }
+    .nav-item {
+        text-align: center;
+    }
+    .nav-link {
+        margin-left: 0;
+        display: inline-block;
+    }
+    .studies_info {
+        padding: 5px 20px;
+    }
+    .banner_content {
+        text-align: center;
+    }
+    .banner_info h1 {
+        font-size: 33px;
+    }
+    .btn_banner {
+        margin: 0;
+        margin-left: 8px;
+    }
+    .banner_info p {
+        font-size: 19px;
+    }
+    .features_info h1 {
+        font-size: 33px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .features_info {
+        text-align: center;
+    }
+    .btn_about_firm {
+        margin-bottom: 20px;
+    }
+    .service_heading {
+        width: 90%;
+    }
+    .service_heading h1 {
+        font-size: 33px;
+    }
+    .service_item {
+        margin-bottom: 25px;
+    }
+    .process_heading {
+        width: 90%;
+    }
+    .process_heading h1 {
+        font-size: 33px;
+    }
+    .consultation_info {
+        padding-left: 0;
+        padding: 10px;
+    }
+    .consultation_info h1 {
+       font-size: 33px;
+    }
+    .colsultation_item {
+        text-align: center;
+    }
+    .studies_heading h1 {
+        font-size: 33px;
+    }
+    .studies_heading {
+        width: 89%;
+    }
+    .studies_btn {
+        margin-bottom: 20px !important;
+    }
+    .align-items-center {
+        text-align: center;
+    }
+    .client_heading {
+        width: 100%;
+        text-align: center;
+    }
+    .client_section {
+        padding: 30px 0;
+    }
+    .client_review {
+        text-align: center;
+        margin-top: 6px;
+    }
+    .client_heading H1 {
+        font-size: 33px;
+    }
+    .team_carousel .owl-nav .owl-next i, .client_carousel .owl-nav .owl-next i {
+        right: 0;
+        top: -5%;
+    }
+    .team_carousel .owl-nav .owl-prev i, .client_carousel .owl-nav .owl-prev i{
+        left: 0;
+        top: -5%;
+    }
+    .article_heading {
+        width: 100% !important;
+        text-align: center;
+    }
+    .article_info h4 {
+        font-size: 23px;
+    }
+    .article_info {
+        text-align: center;
+    }
+    .article_name {
+        justify-content: space-between;
+    }
+    .sorce_name {
+        margin-right: 0;
+    }
+    .logo_item {
+        margin-bottom: 20px;
+    }
+    .link_item ul {
+        justify-content: center;
+    }
+    .link_item {
+        text-align: center;
+    }
+    .userful_link {
+        text-align: center;
+    }
+    .link_info {
+        justify-content: center;
+    }
+    .contuct_info {
+        justify-content: center;
+    }
+    .contuct_us h3 {
+        text-align: center;
+    }
+    .newsletter h3 {
+        text-align: center;
+    }
+    .btn_subcribe {
+        margin-left: 0 !important;
+    }
+}
